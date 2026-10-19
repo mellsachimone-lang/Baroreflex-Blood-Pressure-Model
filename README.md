@@ -8,7 +8,7 @@ baroreceptor firing (B). It is used to study how reduced baroreceptor sensitivit
 simple pharmacological term (d) change the equilibrium and stability of blood pressure regulation.
 
 **Run it in your browser (no installation):**
-[Open in Google Colab] (https://colab.research.google.com/github/mellsachimone-lang/baroreflex-bp-model/blob/main/Lisa-Chimone-(25352016)-BioMaths code.ipynb),
+[Open in Google Colab] (https://colab.research.google.com/github/mellsachimone-lang/Baroreflex-Blood-Pressure-Model/blob/main/Lisa_Chimone_(25352016)_Biomaths_Final.ipynb),
 then choose Runtime → Run all.
 
 ## The model
