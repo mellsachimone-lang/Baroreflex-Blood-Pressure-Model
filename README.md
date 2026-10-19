@@ -1,5 +1,3 @@
-# Baroreflex-Blood-Pressure-Model
-
 # Baroreflex-Mediated Blood Pressure Regulation: ODE Simulation
 
 Code for the Biomathematics 374 research project (Stellenbosch University, 2026).
@@ -55,7 +53,7 @@ Initial conditions: P(0) = 80, S(0) = 0.6, B(0) = 0.5. Parameter values are illu
    pip install -r requirements.txt
    jupyter notebook
 ```
-4. Open `cardiovascular_sim.ipynb` and choose **Kernel → Restart & Run All**.
+4. Open `Lisa_Chimone_(25352016)_Biomaths_Final.ipynb` and choose **Kernel → Restart & Run All**.
 
 All parameters are in the first code cell. To add a scenario, add one line to the `SCENARIOS` list.
 
@@ -89,7 +87,7 @@ The notebook checks that (1) numerical and closed-form equilibrium pressures agr
 ## Authorship and acknowledgements
 - Initial code skeleton: Regalo Dube, who implemented an earlier formulation of the model.
 - Author (Lisa Chimone): replaced the model equations, Jacobian and parameters; chose the scenarios; edited and ran the analysis; verified results against theory.
-- Generative AI (Claude, Anthropic) was used to suggest the equilibrium-solver fix, and to debug the verification, extended-sensitivity and report-numbers cells.
+- Generative AI (Claude) was used to suggest the equilibrium-solver fix and identified bugs in code, while assisting with replacement code. Assisted debugging code concerning the verification, extended sensitivity and report-numbers cells. ChatGPT was used for language editing and flow of the report.
 
 ## References
 - Ursino, M. (1998). *Am J Physiol Heart Circ Physiol*, 275(5), H1733-H1747.
